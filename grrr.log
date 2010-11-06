@@ -1,0 +1,1854 @@
+[2010-09-09 20:58:07.384] [INFO] grrr - eeeee
+[2010-09-09 22:35:46.071] [INFO] grrr - 200
+[2010-09-09 22:35:46.074] [INFO] grrr - <?xml version="1.0" encoding="UTF-8"?><plusService><status>success</status><runList endIndex="94" startIndex="90"><run id="339885865" workoutType="standard"><startTime>2010-08-22T11:14:08+01:00</startTime><distance>24.7833</distance><duration>8557776</duration><syncTime>2010-08-27T22:07:00+00:00</syncTime><calories>1745.0</calories><name/><description/><howFelt/><weather/><terrain/><intensity/><gpxId/><equipmentType>ipod</equipmentType></run><run id="205713023" workoutType="standard"><startTime>2010-08-25T07:16:12+01:00</startTime><distance>0.0193</distance><duration>26642</duration><syncTime>2010-08-27T22:07:02+00:00</syncTime><name/><description/><howFelt/><weather/><terrain/><intensity/><gpxId/><equipmentType>ipod</equipmentType></run><run id="1078107810" workoutType="standard"><startTime>2010-08-25T07:18:19+01:00</startTime><distance>4.8452</distance><duration>1510231</duration><syncTime>2010-08-27T22:07:04+00:00</syncTime><calories>341.0</calories><name/><description/><howFelt/><weather
+[2010-09-09 22:35:46.075] [INFO] grrr - /><terrain/><intensity/><gpxId/><equipmentType>ipod</equipmentType></run><run id="205708179" workoutType="standard"><startTime>2010-08-26T18:49:39+01:00</startTime><distance>10.7665</distance><duration>3239650</duration><syncTime>2010-08-27T22:07:06+00:00</syncTime><calories>758.0</calories><name/><description/><howFelt/><weather/><terrain/><intensity/><gpxId/><equipmentType>ipod</equipmentType></run></runList><runListSummary><runs>94</runs><distance>782.73</distance><duration>265891046</duration><calories>50127.0</calories></runListSummary></plusService>
+[2010-09-09 22:35:46.075] [INFO] grrr - plusService
+[2010-09-09 22:35:46.076] [INFO] grrr - status
+[2010-09-09 22:35:46.076] [INFO] grrr - chars: success
+[2010-09-09 22:35:46.076] [INFO] grrr - runList
+[2010-09-09 22:35:46.076] [INFO] grrr - run
+[2010-09-09 22:35:46.076] [INFO] grrr - startTime
+[2010-09-09 22:35:46.076] [INFO] grrr - chars: 2010-08-22T11:14:08+01:00
+[2010-09-09 22:35:46.077] [INFO] grrr - distance
+[2010-09-09 22:35:46.077] [INFO] grrr - chars: 24.7833
+[2010-09-09 22:35:46.077] [INFO] grrr - duration
+[2010-09-09 22:35:46.077] [INFO] grrr - chars: 8557776
+[2010-09-09 22:35:46.077] [INFO] grrr - syncTime
+[2010-09-09 22:35:46.077] [INFO] grrr - chars: 2010-08-27T22:07:00+00:00
+[2010-09-09 22:35:46.078] [INFO] grrr - calories
+[2010-09-09 22:35:46.078] [INFO] grrr - chars: 1745.0
+[2010-09-09 22:35:46.078] [INFO] grrr - name
+[2010-09-09 22:35:46.078] [INFO] grrr - description
+[2010-09-09 22:35:46.078] [INFO] grrr - howFelt
+[2010-09-09 22:35:46.078] [INFO] grrr - weather
+[2010-09-09 22:35:46.078] [INFO] grrr - terrain
+[2010-09-09 22:35:46.079] [INFO] grrr - intensity
+[2010-09-09 22:35:46.079] [INFO] grrr - gpxId
+[2010-09-09 22:35:46.079] [INFO] grrr - equipmentType
+[2010-09-09 22:35:46.079] [INFO] grrr - chars: ipod
+[2010-09-09 22:35:46.079] [INFO] grrr - run
+[2010-09-09 22:35:46.079] [INFO] grrr - startTime
+[2010-09-09 22:35:46.080] [INFO] grrr - chars: 2010-08-25T07:16:12+01:00
+[2010-09-09 22:35:46.080] [INFO] grrr - distance
+[2010-09-09 22:35:46.080] [INFO] grrr - chars: 0.0193
+[2010-09-09 22:35:46.080] [INFO] grrr - duration
+[2010-09-09 22:35:46.080] [INFO] grrr - chars: 26642
+[2010-09-09 22:35:46.080] [INFO] grrr - syncTime
+[2010-09-09 22:35:46.080] [INFO] grrr - chars: 2010-08-27T22:07:02+00:00
+[2010-09-09 22:35:46.081] [INFO] grrr - name
+[2010-09-09 22:35:46.081] [INFO] grrr - description
+[2010-09-09 22:35:46.081] [INFO] grrr - howFelt
+[2010-09-09 22:35:46.081] [INFO] grrr - weather
+[2010-09-09 22:35:46.081] [INFO] grrr - terrain
+[2010-09-09 22:35:46.081] [INFO] grrr - intensity
+[2010-09-09 22:35:46.082] [INFO] grrr - gpxId
+[2010-09-09 22:35:46.082] [INFO] grrr - equipmentType
+[2010-09-09 22:35:46.082] [INFO] grrr - chars: ipod
+[2010-09-09 22:35:46.082] [INFO] grrr - run
+[2010-09-09 22:35:46.082] [INFO] grrr - startTime
+[2010-09-09 22:35:46.082] [INFO] grrr - chars: 2010-08-25T07:18:19+01:00
+[2010-09-09 22:35:46.083] [INFO] grrr - distance
+[2010-09-09 22:35:46.083] [INFO] grrr - chars: 4.8452
+[2010-09-09 22:35:46.083] [INFO] grrr - duration
+[2010-09-09 22:35:46.083] [INFO] grrr - chars: 1510231
+[2010-09-09 22:35:46.084] [INFO] grrr - syncTime
+[2010-09-09 22:35:46.084] [INFO] grrr - chars: 2010-08-27T22:07:04+00:00
+[2010-09-09 22:35:46.084] [INFO] grrr - calories
+[2010-09-09 22:35:46.084] [INFO] grrr - chars: 341.0
+[2010-09-09 22:35:46.084] [INFO] grrr - name
+[2010-09-09 22:35:46.084] [INFO] grrr - description
+[2010-09-09 22:35:46.085] [INFO] grrr - howFelt
+[2010-09-09 22:35:46.085] [INFO] grrr - weather
+[2010-09-09 22:35:46.085] [INFO] grrr - terrain
+[2010-09-09 22:35:46.085] [INFO] grrr - intensity
+[2010-09-09 22:35:46.085] [INFO] grrr - gpxId
+[2010-09-09 22:35:46.085] [INFO] grrr - equipmentType
+[2010-09-09 22:35:46.085] [INFO] grrr - chars: ipod
+[2010-09-09 22:35:46.086] [INFO] grrr - run
+[2010-09-09 22:35:46.086] [INFO] grrr - startTime
+[2010-09-09 22:35:46.086] [INFO] grrr - chars: 2010-08-26T18:49:39+01:00
+[2010-09-09 22:35:46.086] [INFO] grrr - distance
+[2010-09-09 22:35:46.086] [INFO] grrr - chars: 10.7665
+[2010-09-09 22:35:46.086] [INFO] grrr - duration
+[2010-09-09 22:35:46.087] [INFO] grrr - chars: 3239650
+[2010-09-09 22:35:46.087] [INFO] grrr - syncTime
+[2010-09-09 22:35:46.087] [INFO] grrr - chars: 2010-08-27T22:07:06+00:00
+[2010-09-09 22:35:46.087] [INFO] grrr - calories
+[2010-09-09 22:35:46.087] [INFO] grrr - chars: 758.0
+[2010-09-09 22:35:46.087] [INFO] grrr - name
+[2010-09-09 22:35:46.087] [INFO] grrr - description
+[2010-09-09 22:35:46.088] [INFO] grrr - howFelt
+[2010-09-09 22:35:46.088] [INFO] grrr - weather
+[2010-09-09 22:35:46.088] [INFO] grrr - terrain
+[2010-09-09 22:35:46.088] [INFO] grrr - intensity
+[2010-09-09 22:35:46.088] [INFO] grrr - gpxId
+[2010-09-09 22:35:46.088] [INFO] grrr - equipmentType
+[2010-09-09 22:35:46.088] [INFO] grrr - chars: ipod
+[2010-09-09 22:35:46.089] [INFO] grrr - runListSummary
+[2010-09-09 22:35:46.089] [INFO] grrr - runs
+[2010-09-09 22:35:46.089] [INFO] grrr - chars: 94
+[2010-09-09 22:35:46.089] [INFO] grrr - distance
+[2010-09-09 22:35:46.089] [INFO] grrr - chars: 782.73
+[2010-09-09 22:35:46.089] [INFO] grrr - duration
+[2010-09-09 22:35:46.090] [INFO] grrr - chars: 265891046
+[2010-09-09 22:35:46.090] [INFO] grrr - calories
+[2010-09-09 22:35:46.090] [INFO] grrr - chars: 50127.0
+[2010-09-11 07:20:17.603] [INFO] grrr - plusService
+[2010-09-11 07:20:17.606] [INFO] grrr - status
+[2010-09-11 07:20:17.606] [INFO] grrr - startTime
+[2010-09-11 07:20:17.606] [INFO] grrr - run
+[2010-09-11 07:20:17.607] [INFO] grrr - chars: 2010-08-22T11:14:08+01:00
+[2010-09-11 07:20:17.607] [INFO] grrr - distance
+[2010-09-11 07:20:17.607] [INFO] grrr - chars: 24.7833
+[2010-09-11 07:20:17.607] [INFO] grrr - duration
+[2010-09-11 07:20:17.607] [INFO] grrr - chars: 8557776
+[2010-09-11 07:20:17.607] [INFO] grrr - syncTime
+[2010-09-11 07:20:17.607] [INFO] grrr - chars: 2010-08-27T22:07:00+00:00
+[2010-09-11 07:20:17.607] [INFO] grrr - calories
+[2010-09-11 07:20:17.607] [INFO] grrr - chars: 1745.0
+[2010-09-11 07:20:17.608] [INFO] grrr - name
+[2010-09-11 07:20:17.608] [INFO] grrr - description
+[2010-09-11 07:20:17.608] [INFO] grrr - howFelt
+[2010-09-11 07:20:17.608] [INFO] grrr - weather
+[2010-09-11 07:20:17.608] [INFO] grrr - terrain
+[2010-09-11 07:20:17.608] [INFO] grrr - intensity
+[2010-09-11 07:20:17.608] [INFO] grrr - gpxId
+[2010-09-11 07:20:17.608] [INFO] grrr - equipmentType
+[2010-09-11 07:20:17.608] [INFO] grrr - chars: ipod
+[2010-09-11 07:20:17.609] [INFO] grrr - run
+[2010-09-11 07:20:17.609] [INFO] grrr - startTime
+[2010-09-11 07:20:17.609] [INFO] grrr - chars: 2010-08-25T07:16:12+01:00
+[2010-09-11 07:20:17.609] [INFO] grrr - distance
+[2010-09-11 07:20:17.609] [INFO] grrr - chars: 0.0193
+[2010-09-11 07:20:17.609] [INFO] grrr - duration
+[2010-09-11 07:20:17.609] [INFO] grrr - chars: 26642
+[2010-09-11 07:20:17.609] [INFO] grrr - syncTime
+[2010-09-11 07:20:17.609] [INFO] grrr - chars: 2010-08-27T22:07:02+00:00
+[2010-09-11 07:20:17.610] [INFO] grrr - name
+[2010-09-11 07:20:17.610] [INFO] grrr - description
+[2010-09-11 07:20:17.610] [INFO] grrr - howFelt
+[2010-09-11 07:20:17.610] [INFO] grrr - weather
+[2010-09-11 07:20:17.606] [INFO] grrr - runList
+[2010-09-11 07:20:17.610] [INFO] grrr - terrain
+[2010-09-11 07:20:17.606] [INFO] grrr - chars: success
+[2010-09-11 07:20:17.610] [INFO] grrr - gpxId
+[2010-09-11 07:20:17.610] [INFO] grrr - chars: ipod
+[2010-09-11 07:20:17.610] [INFO] grrr - equipmentType
+[2010-09-11 07:20:17.611] [INFO] grrr - run
+[2010-09-11 07:20:17.611] [INFO] grrr - chars: 2010-08-25T07:18:19+01:00
+[2010-09-11 07:20:17.611] [INFO] grrr - distance
+[2010-09-11 07:20:17.611] [INFO] grrr - chars: 4.8452
+[2010-09-11 07:20:17.611] [INFO] grrr - startTime
+[2010-09-11 07:20:17.611] [INFO] grrr - duration
+[2010-09-11 07:20:17.611] [INFO] grrr - syncTime
+[2010-09-11 07:20:17.611] [INFO] grrr - chars: 2010-08-27T22:07:04+00:00
+[2010-09-11 07:20:17.612] [INFO] grrr - calories
+[2010-09-11 07:20:17.612] [INFO] grrr - chars: 341.0
+[2010-09-11 07:20:17.610] [INFO] grrr - intensity
+[2010-09-11 07:20:17.612] [INFO] grrr - description
+[2010-09-11 07:20:17.612] [INFO] grrr - howFelt
+[2010-09-11 07:20:17.612] [INFO] grrr - weather
+[2010-09-11 07:20:17.611] [INFO] grrr - chars: 1510231
+[2010-09-11 07:20:17.612] [INFO] grrr - terrain
+[2010-09-11 07:20:17.612] [INFO] grrr - name
+[2010-09-11 07:20:17.612] [INFO] grrr - intensity
+[2010-09-11 07:20:17.616] [INFO] grrr - gpxId
+[2010-09-11 07:20:17.616] [INFO] grrr - equipmentType
+[2010-09-11 07:20:17.616] [INFO] grrr - chars: ipod
+[2010-09-11 07:20:17.617] [INFO] grrr - run
+[2010-09-11 07:20:17.617] [INFO] grrr - startTime
+[2010-09-11 07:20:17.617] [INFO] grrr - chars: 2010-08-26T18:49:39+01:00
+[2010-09-11 07:20:17.617] [INFO] grrr - distance
+[2010-09-11 07:20:17.617] [INFO] grrr - chars: 10.7665
+[2010-09-11 07:20:17.617] [INFO] grrr - duration
+[2010-09-11 07:20:17.617] [INFO] grrr - chars: 3239650
+[2010-09-11 07:20:17.617] [INFO] grrr - syncTime
+[2010-09-11 07:20:17.617] [INFO] grrr - chars: 2010-08-27T22:07:06+00:00
+[2010-09-11 07:20:17.618] [INFO] grrr - calories
+[2010-09-11 07:20:17.618] [INFO] grrr - chars: 758.0
+[2010-09-11 07:20:17.618] [INFO] grrr - name
+[2010-09-11 07:20:17.618] [INFO] grrr - description
+[2010-09-11 07:20:17.618] [INFO] grrr - howFelt
+[2010-09-11 07:20:17.618] [INFO] grrr - weather
+[2010-09-11 07:20:17.618] [INFO] grrr - terrain
+[2010-09-11 07:20:17.618] [INFO] grrr - intensity
+[2010-09-11 07:20:17.619] [INFO] grrr - gpxId
+[2010-09-11 07:20:17.619] [INFO] grrr - equipmentType
+[2010-09-11 07:20:17.619] [INFO] grrr - chars: ipod
+[2010-09-11 07:20:17.619] [INFO] grrr - runListSummary
+[2010-09-11 07:20:17.619] [INFO] grrr - runs
+[2010-09-11 07:20:17.619] [INFO] grrr - chars: 94
+[2010-09-11 07:20:17.619] [INFO] grrr - distance
+[2010-09-11 07:20:17.619] [INFO] grrr - chars: 782.73
+[2010-09-11 07:20:17.620] [INFO] grrr - duration
+[2010-09-11 07:20:17.620] [INFO] grrr - chars: 265891046
+[2010-09-11 07:20:17.620] [INFO] grrr - calories
+[2010-09-11 07:20:17.620] [INFO] grrr - chars: 50127.0
+[2010-09-11 07:49:00.723] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:49:00.726] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 07:49:39.986] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:49:39.989] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 07:49:39.989] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 07:49:39.989] [INFO] grrr - onStartElementNS false -1 runList
+[2010-09-11 07:49:39.989] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 07:49:39.990] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 07:49:39.990] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 07:49:39.990] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 07:49:39.990] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 07:49:39.990] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 07:49:39.990] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 07:49:39.991] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 07:49:39.991] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 07:49:39.991] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 07:49:39.991] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 07:49:39.991] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 07:49:39.991] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 07:49:39.992] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 07:49:39.993] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 07:49:39.993] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 07:49:39.993] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 07:49:39.993] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 07:49:39.993] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 07:49:39.993] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 07:49:39.993] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 07:49:39.994] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 07:49:39.994] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 07:49:39.994] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 07:49:39.994] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 07:49:39.994] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 07:49:39.994] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 07:49:39.994] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 07:49:39.995] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 07:49:39.995] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 07:49:39.995] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 07:49:39.995] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 07:49:39.995] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 07:49:39.995] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 07:49:39.996] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 07:49:39.996] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 07:49:39.996] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 07:49:39.996] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 07:49:39.996] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 07:49:39.996] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 07:49:39.997] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 07:49:39.997] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 07:49:39.997] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 07:49:39.997] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 07:49:39.997] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 07:49:39.997] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 07:49:39.997] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 07:49:40.001] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 07:49:40.001] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 07:49:40.001] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 07:49:40.001] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 07:49:40.002] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 07:49:40.002] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 07:49:40.002] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 07:49:40.002] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 07:49:40.002] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 07:49:40.003] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 07:49:40.003] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 07:49:40.003] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 07:49:40.003] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 07:49:40.003] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 07:49:40.003] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 07:49:40.003] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 07:49:40.003] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 07:49:40.004] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 07:49:40.005] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 07:49:40.005] [INFO] grrr - onStartElementNS true 3 runListSummary
+[2010-09-11 07:49:40.005] [INFO] grrr - onStartElementNS true 3 runs
+[2010-09-11 07:49:40.005] [INFO] grrr - onCharacters true 3 runs 94
+[2010-09-11 07:49:40.005] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 07:49:40.005] [INFO] grrr - onCharacters true 3 distance 782.73
+[2010-09-11 07:49:40.005] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 07:49:40.005] [INFO] grrr - onCharacters true 3 duration 265891046
+[2010-09-11 07:49:40.006] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 07:49:40.006] [INFO] grrr - onCharacters true 3 calories 50127.0
+[2010-09-11 07:54:30.641] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:54:30.644] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 07:54:30.644] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 07:55:25.665] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:55:25.876] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 07:55:25.877] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 07:55:25.877] [INFO] grrr - onStartElementNS false -1 runList
+[2010-09-11 07:55:25.877] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 07:55:25.878] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 07:55:25.878] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 07:55:25.878] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 07:55:25.878] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 07:55:25.878] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 07:55:25.878] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 07:55:25.879] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 07:55:25.879] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 07:55:25.879] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 07:55:25.879] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 07:55:25.879] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 07:55:25.879] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 07:55:25.880] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 07:55:25.881] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 07:55:25.881] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 07:55:25.881] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 07:55:25.881] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 07:55:25.882] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 07:55:25.882] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 07:55:25.882] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 07:55:25.883] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 07:55:25.882] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 07:55:25.884] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 07:55:25.884] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 07:55:25.884] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 07:55:25.884] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 07:55:25.884] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 07:55:25.884] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 07:55:25.885] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 07:55:25.885] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 07:55:25.882] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 07:55:25.882] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 07:55:25.885] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 07:55:25.885] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 07:55:25.885] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 07:55:25.886] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 07:55:25.886] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 07:55:25.886] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 07:55:25.886] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 07:55:25.890] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 07:55:25.890] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 07:55:25.890] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 07:55:25.890] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 07:55:25.890] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 07:55:25.891] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 07:55:25.891] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 07:55:25.891] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 07:55:25.891] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 07:55:25.891] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 07:55:25.892] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 07:55:25.892] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 07:55:25.892] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 07:55:25.892] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 07:55:25.892] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 07:55:25.892] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 07:55:25.892] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 07:55:25.893] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 07:55:25.893] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 07:55:25.894] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 07:55:25.894] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 07:55:25.894] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 07:55:25.894] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 07:55:25.894] [INFO] grrr - onStartElementNS true 3 runListSummary
+[2010-09-11 07:55:25.894] [INFO] grrr - onStartElementNS true 3 runs
+[2010-09-11 07:55:25.894] [INFO] grrr - onCharacters true 3 runs 94
+[2010-09-11 07:55:25.895] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 07:55:25.895] [INFO] grrr - onCharacters true 3 distance 782.73
+[2010-09-11 07:55:25.895] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 07:55:25.895] [INFO] grrr - onCharacters true 3 duration 265891046
+[2010-09-11 07:55:25.895] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 07:55:25.895] [INFO] grrr - onCharacters true 3 calories 50127.0
+[2010-09-11 07:58:19.489] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:58:19.576] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 07:59:31.969] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 07:59:32.058] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:03:02.744] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:03:02.747] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:03:38.629] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:03:38.632] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:03:38.632] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:03:38.632] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:03:38.632] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:03:38.633] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:03:38.633] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:03:38.633] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:03:38.633] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:03:38.633] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:03:38.633] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:03:38.633] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:03:38.633] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:03:38.634] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:03:38.634] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:03:38.635] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:03:38.635] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:03:38.635] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:03:38.635] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:03:38.635] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:03:38.635] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:03:38.635] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:03:38.636] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:03:38.636] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:03:38.636] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:03:38.637] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:03:38.637] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:03:38.637] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:03:38.637] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:03:38.637] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:03:38.637] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:03:38.638] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:03:38.638] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:03:38.638] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:03:38.638] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:03:38.638] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:03:38.638] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:03:38.638] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:03:38.639] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:03:38.639] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:03:38.639] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:03:38.639] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:03:38.639] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:03:38.639] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:03:38.643] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:03:38.643] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:03:38.643] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:03:38.644] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:03:38.644] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:03:38.644] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:03:38.644] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:03:38.644] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:03:38.644] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:03:38.644] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:03:38.645] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:03:38.645] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:03:38.645] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:03:38.645] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:03:38.645] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:03:38.646] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:03:38.646] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:03:38.646] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:03:38.646] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:03:38.647] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:03:38.647] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:03:38.647] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:03:38.647] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:05:17.703] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:05:17.706] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:06:02.553] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:06:02.556] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:06:30.566] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:06:30.569] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:06:40.575] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:06:40.579] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:06:58.344] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:06:58.348] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:06:58.348] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:06:58.348] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:06:58.348] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:06:58.349] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:06:58.349] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:06:58.349] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:06:58.349] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:06:58.349] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:06:58.349] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:06:58.349] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:06:58.349] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:06:58.350] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:06:58.350] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:06:58.351] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:06:58.351] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:06:58.351] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:06:58.351] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:06:58.351] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:06:58.351] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:06:58.351] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:06:58.351] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:06:58.352] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:06:58.352] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:06:58.352] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:06:58.353] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:06:58.353] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:06:58.353] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:06:58.353] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:06:58.353] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:06:58.353] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:06:58.353] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:06:58.353] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:06:58.354] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:06:58.354] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:06:58.354] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:06:58.354] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:06:58.354] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:06:58.354] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:06:58.354] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:06:58.358] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:06:58.358] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:06:58.359] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:06:58.359] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:06:58.359] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:06:58.360] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:06:58.360] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:06:58.360] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:06:58.360] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:06:58.360] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:06:58.360] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:06:58.360] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:06:58.360] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:06:58.360] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:06:58.361] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:06:58.361] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:06:58.362] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:06:58.362] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:06:58.362] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:06:58.362] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:06:58.362] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:06:58.362] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:06:58.362] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:06:58.362] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:06:58.362] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:43:43.133] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:43:43.136] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:43:43.136] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:43:43.136] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:43:43.137] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:43:43.137] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:43:43.137] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:43:43.137] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:43:43.137] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:43:43.137] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:43:43.137] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:43:43.137] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:43:43.138] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:43:43.138] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:43:43.138] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:43:43.139] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:43:43.139] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:43:43.139] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:43:43.139] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:43:43.140] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:43:43.140] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:43:43.140] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:43:43.141] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:43:43.141] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:43:43.141] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:43:43.141] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:43:43.142] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:43:43.142] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:43:43.142] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:43:43.142] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:43:43.146] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:43:43.146] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:43:43.146] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:43:43.146] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:43:43.147] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:43:43.147] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:43:43.147] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:43:43.147] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:43:43.147] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:43:43.147] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:43:43.147] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:43:43.147] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:43:43.148] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:43:43.148] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:43:43.148] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:43:43.148] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:43:43.149] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:43:43.149] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:43:43.149] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:43:43.149] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:43:43.149] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:43:43.149] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:43:43.149] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:43:43.149] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:43:43.150] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:43:43.150] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:43:43.150] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:43:43.150] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:45:30.442] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:45:30.445] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:45:30.446] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:45:30.446] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:45:30.446] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:45:30.446] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:45:30.447] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:45:30.447] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:45:30.447] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:45:30.447] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:45:30.447] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:45:30.447] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:45:30.447] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:45:30.448] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:45:30.448] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:45:30.448] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:45:30.448] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:45:30.448] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:45:30.448] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:45:30.449] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:45:30.449] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:45:30.449] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:45:30.449] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:45:30.449] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:45:30.449] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:45:30.450] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:45:30.450] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:45:30.450] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:45:30.450] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:45:30.450] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:45:30.450] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:45:30.450] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:45:30.451] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:45:30.451] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:45:30.451] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:45:30.451] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:45:30.451] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:45:30.451] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:45:30.452] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:45:30.452] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:45:30.452] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:45:30.452] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:45:30.452] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:45:30.452] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:45:30.452] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:45:30.453] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:45:30.453] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:45:30.453] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:45:30.453] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:45:30.453] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:45:30.453] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:45:30.454] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:45:30.454] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:45:30.454] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:45:30.454] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:45:30.454] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:45:30.458] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:45:30.458] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:45:30.458] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:45:30.458] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:45:30.458] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:45:30.458] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:45:30.459] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:45:30.459] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:45:30.459] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:45:30.459] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:45:30.459] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:45:30.459] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:45:30.459] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:45:30.460] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:45:30.460] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:45:30.460] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:45:30.461] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:45:30.461] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:45:30.461] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:45:30.462] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:45:30.462] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:45:30.462] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:45:30.462] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:45:30.462] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:45:30.462] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:45:52.544] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:45:52.547] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:46:11.096] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:46:11.099] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:46:11.100] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:46:11.100] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:46:11.100] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:46:11.100] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:46:11.100] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:46:11.100] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:46:11.101] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:46:11.101] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:46:11.101] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:46:11.101] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:46:11.101] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:46:11.101] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:46:11.101] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:46:11.101] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:46:11.102] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:46:11.102] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:46:11.103] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:46:11.103] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:46:11.103] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:46:11.103] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:46:11.103] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:46:11.103] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:46:11.103] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:46:11.103] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:46:11.103] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:46:11.104] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:46:11.104] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:46:11.105] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:46:11.105] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:46:11.105] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:46:11.105] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:46:11.105] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:46:11.105] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:46:11.105] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:46:11.106] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:46:11.106] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:46:11.106] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:46:11.106] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:46:11.106] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:46:11.106] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:46:11.106] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:46:11.110] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:46:11.111] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:46:11.111] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:46:11.111] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:46:11.111] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:46:11.111] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:46:11.111] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:46:11.112] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:46:11.112] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:46:11.112] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:46:11.112] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:46:11.112] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:46:11.112] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:46:11.112] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:46:11.113] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:46:11.113] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:46:11.113] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:46:11.113] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:46:11.113] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:46:11.113] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:46:11.113] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:46:11.114] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:46:11.114] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:46:11.115] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:46:11.115] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:46:11.115] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:46:11.115] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:46:11.115] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:46:11.115] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:46:11.115] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:48:13.431] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:48:13.434] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:48:13.434] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:48:13.435] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:48:13.435] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:48:13.435] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:48:13.435] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:48:13.435] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:48:13.435] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:48:13.435] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:48:13.436] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:48:13.436] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:48:13.436] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:48:13.436] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:48:13.437] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:48:13.437] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:48:13.437] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:48:13.438] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:48:13.438] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:48:13.438] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:48:13.438] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:48:13.438] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:48:13.438] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:48:13.438] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:48:13.438] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:48:13.439] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:48:13.439] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:48:13.440] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:48:13.440] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:48:13.440] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:48:13.440] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:48:13.440] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:48:13.440] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:48:13.440] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:48:13.440] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:48:13.440] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:48:13.441] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:48:13.441] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:48:13.441] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:48:13.444] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:48:13.445] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:48:13.445] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:48:13.446] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:48:13.446] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:48:13.446] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:48:13.446] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:48:13.446] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:48:13.446] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:48:13.446] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:48:13.446] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:48:13.447] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:48:13.447] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:48:13.448] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:48:13.448] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:48:13.448] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:48:13.448] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:48:13.448] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:48:13.448] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:48:13.448] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:48:13.449] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:48:13.449] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:48:13.449] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:48:13.449] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 08:55:22.382] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 08:55:22.386] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 08:55:22.386] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 08:55:22.386] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 08:55:22.387] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 08:55:22.387] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 08:55:22.387] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 08:55:22.387] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 08:55:22.387] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 08:55:22.387] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 08:55:22.388] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 08:55:22.388] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 08:55:22.388] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 08:55:22.388] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 08:55:22.388] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 08:55:22.389] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 08:55:22.390] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 08:55:22.390] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 08:55:22.390] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 08:55:22.390] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 08:55:22.390] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 08:55:22.390] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 08:55:22.391] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 08:55:22.391] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 08:55:22.391] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 08:55:22.391] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 08:55:22.391] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 08:55:22.391] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 08:55:22.392] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 08:55:22.393] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 08:55:22.393] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 08:55:22.393] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 08:55:22.393] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 08:55:22.393] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 08:55:22.394] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 08:55:22.394] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 08:55:22.394] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 08:55:22.394] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 08:55:22.394] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 08:55:22.394] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 08:55:22.394] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 08:55:22.395] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 08:55:22.395] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 08:55:22.398] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 08:55:22.399] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 08:55:22.399] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 08:55:22.399] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 08:55:22.399] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 08:55:22.399] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 08:55:22.400] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 08:55:22.400] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 08:55:22.400] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 08:55:22.400] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 08:55:22.400] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 08:55:22.400] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 08:55:22.401] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 08:55:22.401] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 08:55:22.401] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 08:55:22.401] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 08:55:22.401] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 08:55:22.401] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 08:55:22.401] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 08:55:22.401] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 08:55:22.402] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 08:55:22.402] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 08:55:22.403] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 08:55:22.403] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 08:55:22.403] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 08:55:22.403] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 08:55:22.403] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 08:55:22.403] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 08:55:22.403] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 08:55:22.403] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:01:04.674] [INFO] grrr - []
+[2010-09-11 09:01:04.678] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:01:04.679] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:01:04.679] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:01:04.679] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:01:04.680] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:01:04.680] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:01:04.680] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:01:04.680] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:01:04.680] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:01:04.680] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:01:04.680] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:01:04.680] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:01:04.681] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:01:04.681] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:01:04.681] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:01:04.682] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:01:04.682] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:01:04.682] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:01:04.682] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:01:04.682] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:01:04.682] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:01:04.682] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:01:04.682] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:01:04.683] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:01:04.683] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:01:04.683] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:01:04.684] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:01:04.684] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:01:04.685] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:01:04.685] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:01:04.685] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:01:04.685] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:01:04.685] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:01:04.685] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:01:04.685] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:01:04.686] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:01:04.686] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:01:04.686] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:01:04.690] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:01:04.691] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:01:04.691] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:01:04.692] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:01:04.692] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:01:04.692] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:01:04.692] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:01:04.692] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:01:04.692] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:01:04.692] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:01:04.692] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:01:04.692] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:01:04.692] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:01:04.693] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:01:04.693] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:01:04.694] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:01:04.694] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:01:04.694] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:01:04.694] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:01:04.694] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:01:04.694] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:01:04.694] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:01:04.694] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:05:08.222] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:05:08.225] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:05:08.226] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:05:08.226] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:05:08.226] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:05:08.226] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:05:08.226] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:05:08.226] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:05:08.227] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:05:08.227] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:05:08.227] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:05:08.227] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:05:08.227] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:05:08.227] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:05:08.227] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:05:08.227] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:05:08.228] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:05:08.228] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:05:08.229] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:05:08.229] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:05:08.229] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:05:08.229] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:05:08.229] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:05:08.229] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:05:08.229] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:05:08.229] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:05:08.230] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:05:08.230] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:05:08.231] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:05:08.231] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:05:08.231] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:05:08.231] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:05:08.231] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:05:08.231] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:05:08.232] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:05:08.232] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:05:08.232] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:05:08.232] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:05:08.232] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:05:08.232] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:05:08.232] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:05:08.232] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:05:08.236] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:05:08.236] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:05:08.236] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:05:08.237] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:05:08.237] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:05:08.237] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:05:08.237] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:05:08.237] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:05:08.237] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:05:08.238] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:05:08.238] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:05:08.238] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:05:08.238] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:05:08.238] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:05:08.238] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:05:08.238] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:05:08.239] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:05:08.239] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:05:08.239] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:05:08.240] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:05:08.240] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:05:08.240] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:05:08.240] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:05:08.241] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:05:08.241] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:05:08.241] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:05:08.241] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:11:48.288] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:11:48.292] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:11:48.293] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:11:48.293] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:11:48.293] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:11:48.294] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:11:48.294] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:11:48.294] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:11:48.294] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:11:48.294] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:11:48.294] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:11:48.294] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:11:48.295] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:11:48.295] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:11:48.295] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:11:48.295] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:11:48.295] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:11:48.295] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:11:48.296] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:11:48.296] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:11:48.297] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:11:48.297] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:11:48.297] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:11:48.297] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:11:48.297] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:11:48.298] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:11:48.298] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:11:48.298] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:11:48.298] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:11:48.298] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:11:48.298] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:11:48.299] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:11:48.299] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:11:48.300] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:11:48.300] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:11:48.300] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:11:48.300] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:11:48.300] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:11:48.300] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:11:48.301] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:11:48.301] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:11:48.301] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:11:48.301] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:11:48.301] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:11:48.301] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:11:48.305] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:11:48.305] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:11:48.305] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:11:48.306] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:11:48.306] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:11:48.306] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:11:48.307] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:11:48.307] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:11:48.307] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:11:48.307] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:11:48.307] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:11:48.307] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:11:48.307] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:11:48.307] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:11:48.307] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:11:48.308] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:11:48.308] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:11:48.309] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:11:48.309] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:11:48.309] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:11:48.309] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:11:48.309] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:11:48.309] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:11:48.309] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:11:48.309] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:12:14.352] [INFO] grrr - hi
+[2010-09-11 09:12:14.355] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:12:14.355] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:12:14.355] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:12:14.355] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:12:14.355] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:12:14.356] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:12:14.356] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:12:14.356] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:12:14.356] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:12:14.356] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:12:14.356] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:12:14.356] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:12:14.356] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:12:14.357] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:12:14.357] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:12:14.358] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:12:14.358] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:12:14.358] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:12:14.358] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:12:14.358] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:12:14.358] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:12:14.358] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:12:14.358] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:12:14.359] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:12:14.359] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:12:14.359] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:12:14.359] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:12:14.359] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:12:14.359] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:12:14.359] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:12:14.360] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:12:14.360] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:12:14.361] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:12:14.361] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:12:14.361] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:12:14.361] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:12:14.361] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:12:14.361] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:12:14.361] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:12:14.362] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:12:14.362] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:12:14.362] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:12:14.365] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:12:14.366] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:12:14.367] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:12:14.367] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:12:14.367] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:12:14.367] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:12:14.367] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:12:14.367] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:12:14.367] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:12:14.367] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:12:14.368] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:12:14.368] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:12:14.368] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:12:14.369] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:12:14.369] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:12:14.369] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:12:14.369] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:12:14.369] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:12:14.369] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:12:14.369] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:12:14.370] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:12:14.370] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:12:14.370] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:12:14.370] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:18:43.120] [INFO] grrr - hi
+[2010-09-11 09:18:43.123] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:18:43.124] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:18:43.124] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:18:43.124] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:18:43.124] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:18:43.124] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:18:43.124] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:18:43.125] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:18:43.125] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:18:43.125] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:18:43.125] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:18:43.125] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:18:43.125] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:18:43.125] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:18:43.125] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:18:43.126] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:18:43.126] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:18:43.127] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:18:43.127] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:18:43.127] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:18:43.127] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:18:43.127] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:18:43.127] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:18:43.127] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:18:43.128] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:18:43.128] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:18:43.129] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:18:43.129] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:18:43.129] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:18:43.129] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:18:43.129] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:18:43.129] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:18:43.129] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:18:43.129] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:18:43.129] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:18:43.130] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:18:43.130] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:18:43.130] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:18:43.130] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:18:43.130] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:18:43.134] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:18:43.135] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:18:43.135] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:18:43.135] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:18:43.135] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:18:43.135] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:18:43.135] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:18:43.135] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:18:43.135] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:18:43.135] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:18:43.136] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:18:43.136] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:18:43.136] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:18:43.137] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:18:43.137] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:18:43.137] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:18:43.137] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:18:43.138] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:18:43.138] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:18:43.138] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:19:13.899] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:19:13.902] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:19:13.902] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:19:13.902] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:19:13.903] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:19:13.903] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:19:13.903] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:19:13.903] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:19:13.903] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:19:13.903] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:19:13.903] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:19:13.903] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:19:13.904] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:19:13.904] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:19:13.904] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:19:13.905] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:19:13.905] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:19:13.905] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:19:13.906] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:19:13.906] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:19:13.906] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:19:13.906] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:19:13.906] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:19:13.906] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:19:13.906] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:19:13.906] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:19:13.907] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:19:13.907] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:19:13.907] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:19:13.908] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:19:13.908] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:19:13.908] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:19:13.908] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:19:13.908] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:19:13.908] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:19:13.908] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:19:13.908] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:19:13.908] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:19:13.913] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:19:13.913] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:19:13.914] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:19:13.914] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:19:13.914] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:19:13.914] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:19:13.914] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:19:13.914] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:19:13.915] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:19:13.915] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:19:13.915] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:19:13.915] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:19:13.915] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:19:13.915] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:19:13.915] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:19:13.915] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:19:13.916] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:19:13.916] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:19:13.916] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:19:13.917] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:19:13.917] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:19:13.917] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:19:13.918] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:19:13.918] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:19:13.918] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:19:13.918] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:19:13.918] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:19:41.389] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:19:41.392] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:19:41.392] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:19:41.392] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:19:41.392] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:19:41.392] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:19:41.393] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:19:41.393] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:19:41.393] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:19:41.393] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:19:41.393] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:19:41.393] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:19:41.393] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:19:41.393] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:19:41.394] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:19:41.394] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:19:41.395] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:19:41.395] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:19:41.395] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:19:41.395] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:19:41.395] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:19:41.395] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:19:41.395] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:19:41.395] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:19:41.396] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:19:41.396] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:19:41.396] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:19:41.397] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:19:41.397] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:19:41.397] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:19:41.397] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:19:41.397] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:19:41.397] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:19:41.398] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:19:41.398] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:19:41.398] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:19:41.398] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:19:41.398] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:19:41.398] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:19:41.398] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:19:41.399] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:19:41.399] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:19:41.399] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:19:41.399] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:19:41.403] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:19:41.404] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:19:41.404] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:19:41.404] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:19:41.404] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:19:41.404] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:19:41.404] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:19:41.404] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:19:41.404] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:19:41.404] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:19:41.405] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:19:41.405] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:19:41.405] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:19:41.405] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:19:41.405] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:19:41.405] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:19:41.405] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:19:41.406] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:19:41.406] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:19:41.406] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:19:41.407] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:19:41.407] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:19:41.407] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:19:41.407] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:19:41.407] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:19:41.407] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:20:02.783] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:20:02.787] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:20:02.788] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:20:02.788] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:20:02.788] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:20:02.788] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:20:02.788] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:20:02.789] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:20:02.789] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:20:02.789] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:20:02.789] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:20:02.789] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:20:02.789] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:20:02.789] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:20:02.790] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:20:02.790] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:20:02.791] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:20:02.791] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:20:02.791] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:20:02.791] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:20:02.791] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:20:02.791] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:20:02.791] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:20:02.791] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:20:02.792] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:20:02.792] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:20:02.792] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:20:02.793] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:20:02.793] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:20:02.793] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:20:02.793] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:20:02.794] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:20:02.794] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:20:02.794] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:20:02.794] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:20:02.794] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:20:02.794] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:20:02.794] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:20:02.798] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:20:02.799] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:20:02.799] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:20:02.800] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:20:02.800] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:20:02.800] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:20:02.800] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:20:02.800] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:20:02.800] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:20:02.801] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:20:02.801] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:20:02.801] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:20:02.801] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:20:02.801] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:20:02.801] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:20:02.801] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:20:02.801] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:20:02.802] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:20:02.802] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:20:02.803] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:20:02.803] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:20:02.803] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:20:02.803] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:20:02.803] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:20:02.803] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:20:02.803] [INFO] grrr - onCharacters false 3 calories 50127.0
+[2010-09-11 09:20:12.790] [INFO] grrr - {"11":"22","33":44}
+[2010-09-11 09:20:12.793] [INFO] grrr - onStartElementNS false -1 plusService
+[2010-09-11 09:20:12.793] [INFO] grrr - onStartElementNS false -1 status
+[2010-09-11 09:20:12.793] [INFO] grrr - onCharacters false -1 status success
+[2010-09-11 09:20:12.794] [INFO] grrr - onStartElementNS true -1 runList
+[2010-09-11 09:20:12.794] [INFO] grrr - onStartElementNS true 0 run
+[2010-09-11 09:20:12.794] [INFO] grrr - onStartElementNS true 0 startTime
+[2010-09-11 09:20:12.794] [INFO] grrr - onCharacters true 0 startTime 2010-08-22T11:14:08+01:00
+[2010-09-11 09:20:12.794] [INFO] grrr - onStartElementNS true 0 distance
+[2010-09-11 09:20:12.794] [INFO] grrr - onCharacters true 0 distance 24.7833
+[2010-09-11 09:20:12.794] [INFO] grrr - onStartElementNS true 0 duration
+[2010-09-11 09:20:12.795] [INFO] grrr - onCharacters true 0 duration 8557776
+[2010-09-11 09:20:12.795] [INFO] grrr - onStartElementNS true 0 syncTime
+[2010-09-11 09:20:12.795] [INFO] grrr - onCharacters true 0 syncTime 2010-08-27T22:07:00+00:00
+[2010-09-11 09:20:12.795] [INFO] grrr - onStartElementNS true 0 calories
+[2010-09-11 09:20:12.795] [INFO] grrr - onCharacters true 0 calories 1745.0
+[2010-09-11 09:20:12.795] [INFO] grrr - onStartElementNS true 0 name
+[2010-09-11 09:20:12.795] [INFO] grrr - onStartElementNS true 0 description
+[2010-09-11 09:20:12.795] [INFO] grrr - onStartElementNS true 0 howFelt
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 0 weather
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 0 terrain
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 0 intensity
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 0 gpxId
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 0 equipmentType
+[2010-09-11 09:20:12.796] [INFO] grrr - onCharacters true 0 equipmentType ipod
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 1 run
+[2010-09-11 09:20:12.796] [INFO] grrr - onStartElementNS true 1 startTime
+[2010-09-11 09:20:12.797] [INFO] grrr - onCharacters true 1 startTime 2010-08-25T07:16:12+01:00
+[2010-09-11 09:20:12.797] [INFO] grrr - onStartElementNS true 1 distance
+[2010-09-11 09:20:12.797] [INFO] grrr - onCharacters true 1 distance 0.0193
+[2010-09-11 09:20:12.797] [INFO] grrr - onStartElementNS true 1 duration
+[2010-09-11 09:20:12.797] [INFO] grrr - onCharacters true 1 duration 26642
+[2010-09-11 09:20:12.797] [INFO] grrr - onStartElementNS true 1 syncTime
+[2010-09-11 09:20:12.797] [INFO] grrr - onCharacters true 1 syncTime 2010-08-27T22:07:02+00:00
+[2010-09-11 09:20:12.797] [INFO] grrr - onStartElementNS true 1 name
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 description
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 howFelt
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 weather
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 terrain
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 intensity
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 gpxId
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 1 equipmentType
+[2010-09-11 09:20:12.798] [INFO] grrr - onCharacters true 1 equipmentType ipod
+[2010-09-11 09:20:12.798] [INFO] grrr - onStartElementNS true 2 run
+[2010-09-11 09:20:12.799] [INFO] grrr - onStartElementNS true 2 startTime
+[2010-09-11 09:20:12.799] [INFO] grrr - onCharacters true 2 startTime 2010-08-25T07:18:19+01:00
+[2010-09-11 09:20:12.799] [INFO] grrr - onStartElementNS true 2 distance
+[2010-09-11 09:20:12.799] [INFO] grrr - onCharacters true 2 distance 4.8452
+[2010-09-11 09:20:12.799] [INFO] grrr - onStartElementNS true 2 duration
+[2010-09-11 09:20:12.799] [INFO] grrr - onCharacters true 2 duration 1510231
+[2010-09-11 09:20:12.799] [INFO] grrr - onStartElementNS true 2 syncTime
+[2010-09-11 09:20:12.799] [INFO] grrr - onCharacters true 2 syncTime 2010-08-27T22:07:04+00:00
+[2010-09-11 09:20:12.799] [INFO] grrr - onStartElementNS true 2 calories
+[2010-09-11 09:20:12.799] [INFO] grrr - onCharacters true 2 calories 341.0
+[2010-09-11 09:20:12.800] [INFO] grrr - onStartElementNS true 2 name
+[2010-09-11 09:20:12.803] [INFO] grrr - onStartElementNS true 2 description
+[2010-09-11 09:20:12.803] [INFO] grrr - onStartElementNS true 2 howFelt
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 2 weather
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 2 terrain
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 2 intensity
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 2 gpxId
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 2 equipmentType
+[2010-09-11 09:20:12.804] [INFO] grrr - onCharacters true 2 equipmentType ipod
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 3 run
+[2010-09-11 09:20:12.804] [INFO] grrr - onStartElementNS true 3 startTime
+[2010-09-11 09:20:12.805] [INFO] grrr - onCharacters true 3 startTime 2010-08-26T18:49:39+01:00
+[2010-09-11 09:20:12.805] [INFO] grrr - onStartElementNS true 3 distance
+[2010-09-11 09:20:12.805] [INFO] grrr - onCharacters true 3 distance 10.7665
+[2010-09-11 09:20:12.805] [INFO] grrr - onStartElementNS true 3 duration
+[2010-09-11 09:20:12.805] [INFO] grrr - onCharacters true 3 duration 3239650
+[2010-09-11 09:20:12.805] [INFO] grrr - onStartElementNS true 3 syncTime
+[2010-09-11 09:20:12.805] [INFO] grrr - onCharacters true 3 syncTime 2010-08-27T22:07:06+00:00
+[2010-09-11 09:20:12.805] [INFO] grrr - onStartElementNS true 3 calories
+[2010-09-11 09:20:12.805] [INFO] grrr - onCharacters true 3 calories 758.0
+[2010-09-11 09:20:12.805] [INFO] grrr - onStartElementNS true 3 name
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 description
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 howFelt
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 weather
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 terrain
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 intensity
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 gpxId
+[2010-09-11 09:20:12.806] [INFO] grrr - onStartElementNS true 3 equipmentType
+[2010-09-11 09:20:12.806] [INFO] grrr - onCharacters true 3 equipmentType ipod
+[2010-09-11 09:20:12.807] [INFO] grrr - onStartElementNS false 3 runListSummary
+[2010-09-11 09:20:12.807] [INFO] grrr - onStartElementNS false 3 runs
+[2010-09-11 09:20:12.807] [INFO] grrr - onCharacters false 3 runs 94
+[2010-09-11 09:20:12.807] [INFO] grrr - onStartElementNS false 3 distance
+[2010-09-11 09:20:12.807] [INFO] grrr - onCharacters false 3 distance 782.73
+[2010-09-11 09:20:12.807] [INFO] grrr - onStartElementNS false 3 duration
+[2010-09-11 09:20:12.807] [INFO] grrr - onCharacters false 3 duration 265891046
+[2010-09-11 09:20:12.807] [INFO] grrr - onStartElementNS false 3 calories
+[2010-09-11 09:20:12.807] [INFO] grrr - onCharacters false 3 calories 50127.0

@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <script src="jquery-1.4.2.min.js" type="text/javascript">
+        </script>
+        <script src="jquery.tmpl.js" type="text/javascript">
+        </script>
+		
+		<!-- template for  -->
+        <script id="row-tmpl" type="text/x-jquery-tmpl">
+            <tr>
+                <td>
+                    ${distance}
+                </td>
+                <td>
+                    ${duration}
+                </td>
+                <td>
+                    ${startTime}
+                </td>
+            </tr>
+        </script>
+		
+        <script type="text/javascript">
+            $(function(){
+				var bottomPos = 750;
+                var context = document.getElementById("graph").getContext("2d");
+				var str;
+                $.get('http://localhost:81/runs', function(response){
+                    var img = new Image();
+                    img.src = "background.jpeg";
+					
+					// Don't draw until the background image has been loaded
+                    img.onload = function(){
+                        context.drawImage(img, 0, 0);
+                        context.font = '15pt Arial';
+						
+						// Draw the x/y axis
+                        context.fillStyle = 'rgb(255,0,0)';
+                        context.fillRect(0, bottomPos, 1000, 2);
+                        context.fillRect(50, 0, 2, bottomPos);
+                        
+						context.fillStyle = 'rgb(0,0,150)';
+						
+						// Mark the axis
+                        for (i = 0; i <= 760; i += 90) {
+                            context.fillRect(50, bottomPos - i, 5, 5);
+							str = (i/90) * 5;
+                            context.fillText(str + 'km', 0, bottomPos - i);
+                        }
+						
+                        context.font = '8pt Arial';
+                        context.beginPath();
+                        
+						// set the start position
+                        context.moveTo(50, bottomPos - (response.runs[0].distance * 18));
+                        
+						// Loop through run data and graph it
+                        for (var i = 1; i < response.runs.length; i++) {
+                            // some runs get saved that are less than 1k, ignore those false starts
+							if (response.runs[i].distance > 1) {
+                                context.lineTo((i * 10) + 50, bottomPos - (response.runs[i].distance * 18));
+                                context.fillText(i, (i * 10) + 50, bottomPos - (response.runs[i].distance * 18));
+                            }
+                        }
+                        
+						// Draw the graph
+                        context.stroke();    
+                    }
+                    
+					// Populate the table with the run data
+                    $('#row-tmpl').tmpl(response.runs).appendTo('#run-table tbody');
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <canvas id="graph" width="1024" height="768">
+        </canvas>
+        <br/>
+        <table id="run-table">
+            <thead>
+                <tr >
+                    <td>
+                        Distance
+                    </td>
+                    <td>
+                        Duration
+                    </td>
+					<td>
+                        Date
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </body>
+</html>
